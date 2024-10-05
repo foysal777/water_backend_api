@@ -52,7 +52,7 @@ class Member(models.Model):
     contact_number = models.CharField(max_length=15 , default=9663324) 
     team = models.ForeignKey(Team, related_name='members', on_delete=models.CASCADE)
     is_pending = models.BooleanField(default=False)
-    role = models.CharField(max_length=20, choices=ROLE_CHOICES, default='volunteer_team')
+    role = models.CharField(max_length=20, choices=ROLE_CHOICES, default='normal_user')
 
     
 
