@@ -55,7 +55,7 @@ There are two types of user
 - **APIs**: For potential integration with external services
 
 ## Usages
-- Navigate to https://water-backend-4x3sz8hnz-foysal-hossain-munnas-projects.vercel.app in your browser.
+- Navigate to https://water-backend-api.vercel.app/ in your browser.
 - Register as a new user or login if you already have an account.
 - Browse Post,see blog  add post , send meassage 
 - Access your dashboard to manage and accept who were give request to as volunteer 
